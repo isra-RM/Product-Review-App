@@ -6,6 +6,10 @@ I wanted to answer 3 simple questions about the products:
 * What are the top products based on average rating?
 * What is the amount of five star reviews, four star reviews, etc. for each product?
 
+To execute this app locally ,simply go to the folder containing the app and run:
+```console
+streamlit run .\main.py
+```
 
 # Tools
 
